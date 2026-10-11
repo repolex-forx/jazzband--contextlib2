@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "contextlib2",
+  "versions": [
+    {
+      "commit": "9a547a3247f5630e627b49b6971ec7a1d7ff6c23",
+      "tag": "",
+      "parsed_at": "2026-10-11T04:12:16.153031+00:00"
+    }
+  ]
+}
